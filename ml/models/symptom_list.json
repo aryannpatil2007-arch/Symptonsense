@@ -1,0 +1,1207 @@
+[
+  {
+    "id": "abdominal_cramping",
+    "label": "Abdominal cramping",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "abdominal_pain_relieved_by_defecation",
+    "label": "Abdominal pain relieved by defecation",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "abdominal_swelling_tenderness",
+    "label": "Abdominal swelling tenderness",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "acid_regurgitation",
+    "label": "Acid regurgitation",
+    "category": "General"
+  },
+  {
+    "id": "allergic_shiners_dark_circles",
+    "label": "Allergic shiners dark circles",
+    "category": "General"
+  },
+  {
+    "id": "alternating_diarrhea_constipation",
+    "label": "Alternating diarrhea constipation",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "anxiety",
+    "label": "Anxiety",
+    "category": "General"
+  },
+  {
+    "id": "anxiety_from_breathlessness",
+    "label": "Anxiety from breathlessness",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "appetite_loss",
+    "label": "Appetite loss",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "arm_leg_weakness",
+    "label": "Arm leg weakness",
+    "category": "Neurological"
+  },
+  {
+    "id": "backache",
+    "label": "Backache",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "bad_breath_halitosis",
+    "label": "Bad breath halitosis",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "band_like_headache",
+    "label": "Band like headache",
+    "category": "Neurological"
+  },
+  {
+    "id": "belching",
+    "label": "Belching",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "bloating",
+    "label": "Bloating",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "bloating_abdominal_distension",
+    "label": "Bloating abdominal distension",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "blood_in_urine",
+    "label": "Blood in urine",
+    "category": "Urological & Renal"
+  },
+  {
+    "id": "bluish_lips",
+    "label": "Bluish lips",
+    "category": "General"
+  },
+  {
+    "id": "body_aches",
+    "label": "Body aches",
+    "category": "General"
+  },
+  {
+    "id": "bone_spurs_swelling",
+    "label": "Bone spurs swelling",
+    "category": "General"
+  },
+  {
+    "id": "bulging_eyes",
+    "label": "Bulging eyes",
+    "category": "General"
+  },
+  {
+    "id": "burning_skin_sensation",
+    "label": "Burning skin sensation",
+    "category": "Dermatological"
+  },
+  {
+    "id": "burning_stomach_pain",
+    "label": "Burning stomach pain",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "burning_urination",
+    "label": "Burning urination",
+    "category": "Urological & Renal"
+  },
+  {
+    "id": "chest_burning",
+    "label": "Chest burning",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "chest_discomfort",
+    "label": "Chest discomfort",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "chest_fluttering",
+    "label": "Chest fluttering",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "chest_pain",
+    "label": "Chest pain",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "chest_pain_on_breathing",
+    "label": "Chest pain on breathing",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "chest_pleuritic_pain",
+    "label": "Chest pleuritic pain",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "chest_pressure_radiating",
+    "label": "Chest pressure radiating",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "chest_tightness",
+    "label": "Chest tightness",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "chills",
+    "label": "Chills",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "chills_fever",
+    "label": "Chills fever",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "chronic_fatigue",
+    "label": "Chronic fatigue",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "chronic_throat_clearing",
+    "label": "Chronic throat clearing",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "cloudy_foul_urine",
+    "label": "Cloudy foul urine",
+    "category": "Urological & Renal"
+  },
+  {
+    "id": "cloudy_urine",
+    "label": "Cloudy urine",
+    "category": "Urological & Renal"
+  },
+  {
+    "id": "cold_intolerance",
+    "label": "Cold intolerance",
+    "category": "General"
+  },
+  {
+    "id": "cold_sweating",
+    "label": "Cold sweating",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "confusion_in_elderly",
+    "label": "Confusion in elderly",
+    "category": "Neurological"
+  },
+  {
+    "id": "constipation",
+    "label": "Constipation",
+    "category": "General"
+  },
+  {
+    "id": "cough_worse_at_night",
+    "label": "Cough worse at night",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "cracked_skin",
+    "label": "Cracked skin",
+    "category": "Dermatological"
+  },
+  {
+    "id": "crepitus_grating_sound",
+    "label": "Crepitus grating sound",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "crusting_oozing",
+    "label": "Crusting oozing",
+    "category": "Dermatological"
+  },
+  {
+    "id": "dark_tea_colored_urine",
+    "label": "Dark tea colored urine",
+    "category": "Urological & Renal"
+  },
+  {
+    "id": "depressed_mood",
+    "label": "Depressed mood",
+    "category": "General"
+  },
+  {
+    "id": "diarrhea",
+    "label": "Diarrhea",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "diarrhea_or_constipation",
+    "label": "Diarrhea or constipation",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "difficulty_breathing_at_night",
+    "label": "Difficulty breathing at night",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "difficulty_concentrating",
+    "label": "Difficulty concentrating",
+    "category": "General"
+  },
+  {
+    "id": "difficulty_swallowing",
+    "label": "Difficulty swallowing",
+    "category": "General"
+  },
+  {
+    "id": "difficulty_swallowing_mild",
+    "label": "Difficulty swallowing mild",
+    "category": "General"
+  },
+  {
+    "id": "dizziness",
+    "label": "Dizziness",
+    "category": "Neurological"
+  },
+  {
+    "id": "dizziness_after_meals",
+    "label": "Dizziness after meals",
+    "category": "Neurological"
+  },
+  {
+    "id": "dizziness_on_standing",
+    "label": "Dizziness on standing",
+    "category": "Neurological"
+  },
+  {
+    "id": "dry_cough",
+    "label": "Dry cough",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "dry_cough_night",
+    "label": "Dry cough night",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "dry_cracked_skin",
+    "label": "Dry cracked skin",
+    "category": "Dermatological"
+  },
+  {
+    "id": "dry_eyes_mouth",
+    "label": "Dry eyes mouth",
+    "category": "General"
+  },
+  {
+    "id": "dry_itchy_skin",
+    "label": "Dry itchy skin",
+    "category": "Dermatological"
+  },
+  {
+    "id": "dry_skin",
+    "label": "Dry skin",
+    "category": "Dermatological"
+  },
+  {
+    "id": "dull_aching_head_pain",
+    "label": "Dull aching head pain",
+    "category": "General"
+  },
+  {
+    "id": "ear_fullness",
+    "label": "Ear fullness",
+    "category": "General"
+  },
+  {
+    "id": "excessive_hunger",
+    "label": "Excessive hunger",
+    "category": "General"
+  },
+  {
+    "id": "excessive_sweating",
+    "label": "Excessive sweating",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "excessive_thirst",
+    "label": "Excessive thirst",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "facial_flushing",
+    "label": "Facial flushing",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "facial_pain_pressure",
+    "label": "Facial pain pressure",
+    "category": "General"
+  },
+  {
+    "id": "facial_weakness",
+    "label": "Facial weakness",
+    "category": "Neurological"
+  },
+  {
+    "id": "fatigue",
+    "label": "Fatigue",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "fatigue_from_anemia",
+    "label": "Fatigue from anemia",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "fatigue_mild",
+    "label": "Fatigue mild",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "fatigue_post_attack",
+    "label": "Fatigue post attack",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "fatigue_unexplained",
+    "label": "Fatigue unexplained",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "feeling_of_fullness",
+    "label": "Feeling of fullness",
+    "category": "General"
+  },
+  {
+    "id": "feeling_of_incomplete_evacuation",
+    "label": "Feeling of incomplete evacuation",
+    "category": "General"
+  },
+  {
+    "id": "fever",
+    "label": "Fever",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "flushed_skin",
+    "label": "Flushed skin",
+    "category": "Dermatological"
+  },
+  {
+    "id": "frequent_bowel_movements",
+    "label": "Frequent bowel movements",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "frequent_infections",
+    "label": "Frequent infections",
+    "category": "General"
+  },
+  {
+    "id": "frequent_urination",
+    "label": "Frequent urination",
+    "category": "Urological & Renal"
+  },
+  {
+    "id": "gas_flatulence",
+    "label": "Gas flatulence",
+    "category": "General"
+  },
+  {
+    "id": "generalized_skin_itching",
+    "label": "Generalized skin itching",
+    "category": "Dermatological"
+  },
+  {
+    "id": "hair_thinning",
+    "label": "Hair thinning",
+    "category": "General"
+  },
+  {
+    "id": "hand_finger_joint_swelling",
+    "label": "Hand finger joint swelling",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "hand_tremors",
+    "label": "Hand tremors",
+    "category": "General"
+  },
+  {
+    "id": "headache",
+    "label": "Headache",
+    "category": "Neurological"
+  },
+  {
+    "id": "headache_frontal",
+    "label": "Headache frontal",
+    "category": "Neurological"
+  },
+  {
+    "id": "headache_morning",
+    "label": "Headache morning",
+    "category": "Neurological"
+  },
+  {
+    "id": "headache_worse_bending_forward",
+    "label": "Headache worse bending forward",
+    "category": "Neurological"
+  },
+  {
+    "id": "heartburn",
+    "label": "Heartburn",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "heat_intolerance",
+    "label": "Heat intolerance",
+    "category": "General"
+  },
+  {
+    "id": "heavy_menstrual_periods",
+    "label": "Heavy menstrual periods",
+    "category": "General"
+  },
+  {
+    "id": "hiccups",
+    "label": "Hiccups",
+    "category": "General"
+  },
+  {
+    "id": "high_fever",
+    "label": "High fever",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "hoarseness",
+    "label": "Hoarseness",
+    "category": "General"
+  },
+  {
+    "id": "inability_to_pass_gas",
+    "label": "Inability to pass gas",
+    "category": "General"
+  },
+  {
+    "id": "intense_skin_itching",
+    "label": "Intense skin itching",
+    "category": "Dermatological"
+  },
+  {
+    "id": "irregular_menses",
+    "label": "Irregular menses",
+    "category": "General"
+  },
+  {
+    "id": "irregular_rapid_heartbeat",
+    "label": "Irregular rapid heartbeat",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "itching_skin_plaques",
+    "label": "Itching skin plaques",
+    "category": "Dermatological"
+  },
+  {
+    "id": "itchy_eyes",
+    "label": "Itchy eyes",
+    "category": "Dermatological"
+  },
+  {
+    "id": "itchy_throat",
+    "label": "Itchy throat",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "jaundice_yellow_eyes_skin",
+    "label": "Jaundice yellow eyes skin",
+    "category": "Dermatological"
+  },
+  {
+    "id": "jaw_pain",
+    "label": "Jaw pain",
+    "category": "General"
+  },
+  {
+    "id": "joint_aches",
+    "label": "Joint aches",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "joint_exquisitely_tender_to_touch",
+    "label": "Joint exquisitely tender to touch",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "joint_instability",
+    "label": "Joint instability",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "joint_pain_worse_with_activity",
+    "label": "Joint pain worse with activity",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "joint_stiffness",
+    "label": "Joint stiffness",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "joint_stiffness_morning_brief",
+    "label": "Joint stiffness morning brief",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "joint_swelling_intense_redness",
+    "label": "Joint swelling intense redness",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "joint_tenderness",
+    "label": "Joint tenderness",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "left_arm_tingling",
+    "label": "Left arm tingling",
+    "category": "Neurological"
+  },
+  {
+    "id": "lightheadedness",
+    "label": "Lightheadedness",
+    "category": "General"
+  },
+  {
+    "id": "limited_joint_mobility",
+    "label": "Limited joint mobility",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "loss_of_appetite",
+    "label": "Loss of appetite",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "loss_of_balance",
+    "label": "Loss of balance",
+    "category": "Neurological"
+  },
+  {
+    "id": "loss_of_grip_strength",
+    "label": "Loss of grip strength",
+    "category": "General"
+  },
+  {
+    "id": "loss_of_joint_flexibility",
+    "label": "Loss of joint flexibility",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "loss_of_smell",
+    "label": "Loss of smell",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "loss_of_taste",
+    "label": "Loss of taste",
+    "category": "General"
+  },
+  {
+    "id": "low_back_pressure",
+    "label": "Low back pressure",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "low_grade_fever",
+    "label": "Low grade fever",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "lower_right_abdominal_pain",
+    "label": "Lower right abdominal pain",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "memory_fog",
+    "label": "Memory fog",
+    "category": "General"
+  },
+  {
+    "id": "mild_cough",
+    "label": "Mild cough",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "mild_dehydration",
+    "label": "Mild dehydration",
+    "category": "General"
+  },
+  {
+    "id": "mild_effusion",
+    "label": "Mild effusion",
+    "category": "General"
+  },
+  {
+    "id": "mild_fatigue",
+    "label": "Mild fatigue",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "mild_fever",
+    "label": "Mild fever",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "mild_gum_bleeding",
+    "label": "Mild gum bleeding",
+    "category": "General"
+  },
+  {
+    "id": "mild_light_sensitivity",
+    "label": "Mild light sensitivity",
+    "category": "General"
+  },
+  {
+    "id": "mild_sound_sensitivity",
+    "label": "Mild sound sensitivity",
+    "category": "General"
+  },
+  {
+    "id": "mild_weight_loss",
+    "label": "Mild weight loss",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "mood_irritability",
+    "label": "Mood irritability",
+    "category": "General"
+  },
+  {
+    "id": "morning_joint_stiffness_prolonged",
+    "label": "Morning joint stiffness prolonged",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "mucus_in_stool",
+    "label": "Mucus in stool",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "muscle_aches",
+    "label": "Muscle aches",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "muscle_wasting_around_joint",
+    "label": "Muscle wasting around joint",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "muscle_weakness",
+    "label": "Muscle weakness",
+    "category": "Neurological"
+  },
+  {
+    "id": "muscle_weakness_thighs",
+    "label": "Muscle weakness thighs",
+    "category": "Neurological"
+  },
+  {
+    "id": "nasal_congestion",
+    "label": "Nasal congestion",
+    "category": "General"
+  },
+  {
+    "id": "nasal_stuffiness_one_side",
+    "label": "Nasal stuffiness one side",
+    "category": "General"
+  },
+  {
+    "id": "nausea",
+    "label": "Nausea",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "nausea_mild",
+    "label": "Nausea mild",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "nausea_vomiting",
+    "label": "Nausea vomiting",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "neck_pain_stiffness",
+    "label": "Neck pain stiffness",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "neck_shoulder_muscle_tightness",
+    "label": "Neck shoulder muscle tightness",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "nervousness_anxiety",
+    "label": "Nervousness anxiety",
+    "category": "General"
+  },
+  {
+    "id": "nosebleed",
+    "label": "Nosebleed",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "numbness_one_side",
+    "label": "Numbness one side",
+    "category": "Neurological"
+  },
+  {
+    "id": "pain_radiating_to_groin",
+    "label": "Pain radiating to groin",
+    "category": "General"
+  },
+  {
+    "id": "pain_worse_between_meals",
+    "label": "Pain worse between meals",
+    "category": "General"
+  },
+  {
+    "id": "pain_worse_end_of_day",
+    "label": "Pain worse end of day",
+    "category": "General"
+  },
+  {
+    "id": "pain_worse_with_coughing_walking",
+    "label": "Pain worse with coughing walking",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "pale_clay_colored_stools",
+    "label": "Pale clay colored stools",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "palpitations",
+    "label": "Palpitations",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "pelvic_pain",
+    "label": "Pelvic pain",
+    "category": "Urological & Renal"
+  },
+  {
+    "id": "petechiae_pinpoint_rash",
+    "label": "Petechiae pinpoint rash",
+    "category": "Dermatological"
+  },
+  {
+    "id": "phlegm_production",
+    "label": "Phlegm production",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "pitted_nails",
+    "label": "Pitted nails",
+    "category": "Dermatological"
+  },
+  {
+    "id": "plaques_on_elbows_knees_scalp",
+    "label": "Plaques on elbows knees scalp",
+    "category": "Dermatological"
+  },
+  {
+    "id": "post_nasal_drip",
+    "label": "Post nasal drip",
+    "category": "General"
+  },
+  {
+    "id": "productive_cough",
+    "label": "Productive cough",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "puffy_face",
+    "label": "Puffy face",
+    "category": "General"
+  },
+  {
+    "id": "rapid_breathing",
+    "label": "Rapid breathing",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "rapid_heartbeat",
+    "label": "Rapid heartbeat",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "rapid_shallow_breathing",
+    "label": "Rapid shallow breathing",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "red_dry_skin_patches",
+    "label": "Red dry skin patches",
+    "category": "Dermatological"
+  },
+  {
+    "id": "red_thickened_skin_patches",
+    "label": "Red thickened skin patches",
+    "category": "Dermatological"
+  },
+  {
+    "id": "reduced_exercise_capacity",
+    "label": "Reduced exercise capacity",
+    "category": "General"
+  },
+  {
+    "id": "reduced_smell",
+    "label": "Reduced smell",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "reduced_urine_output",
+    "label": "Reduced urine output",
+    "category": "Urological & Renal"
+  },
+  {
+    "id": "restlessness_inability_to_find_comfortable_position",
+    "label": "Restlessness inability to find comfortable position",
+    "category": "General"
+  },
+  {
+    "id": "rheumatoid_nodules",
+    "label": "Rheumatoid nodules",
+    "category": "General"
+  },
+  {
+    "id": "runny_nose",
+    "label": "Runny nose",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "scalp_tenderness",
+    "label": "Scalp tenderness",
+    "category": "General"
+  },
+  {
+    "id": "sensitive_raw_skin",
+    "label": "Sensitive raw skin",
+    "category": "Dermatological"
+  },
+  {
+    "id": "sensitivity_to_light",
+    "label": "Sensitivity to light",
+    "category": "General"
+  },
+  {
+    "id": "sensitivity_to_sound",
+    "label": "Sensitivity to sound",
+    "category": "General"
+  },
+  {
+    "id": "sensitivity_to_stress",
+    "label": "Sensitivity to stress",
+    "category": "General"
+  },
+  {
+    "id": "severe_big_toe_joint_pain",
+    "label": "Severe big toe joint pain",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "severe_body_aches",
+    "label": "Severe body aches",
+    "category": "General"
+  },
+  {
+    "id": "severe_fatigue",
+    "label": "Severe fatigue",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "severe_joint_muscle_aches",
+    "label": "Severe joint muscle aches",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "severe_pain_behind_eyes",
+    "label": "Severe pain behind eyes",
+    "category": "General"
+  },
+  {
+    "id": "severe_sharp_flank_pain",
+    "label": "Severe sharp flank pain",
+    "category": "Urological & Renal"
+  },
+  {
+    "id": "shiny_purplish_skin_over_joint",
+    "label": "Shiny purplish skin over joint",
+    "category": "Dermatological"
+  },
+  {
+    "id": "shortness_of_breath",
+    "label": "Shortness of breath",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "shortness_of_breath_on_exertion",
+    "label": "Shortness of breath on exertion",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "silvery_scaled_skin_plaques",
+    "label": "Silvery scaled skin plaques",
+    "category": "Dermatological"
+  },
+  {
+    "id": "skin_bleeding_on_scratch",
+    "label": "Skin bleeding on scratch",
+    "category": "Dermatological"
+  },
+  {
+    "id": "skin_flaking",
+    "label": "Skin flaking",
+    "category": "Dermatological"
+  },
+  {
+    "id": "skin_lichenification",
+    "label": "Skin lichenification",
+    "category": "Dermatological"
+  },
+  {
+    "id": "skin_rash",
+    "label": "Skin rash",
+    "category": "Dermatological"
+  },
+  {
+    "id": "skin_warmth",
+    "label": "Skin warmth",
+    "category": "Dermatological"
+  },
+  {
+    "id": "sleep_disturbance_from_itch",
+    "label": "Sleep disturbance from itch",
+    "category": "Dermatological"
+  },
+  {
+    "id": "sleep_insomnia",
+    "label": "Sleep insomnia",
+    "category": "General"
+  },
+  {
+    "id": "slow_healing_wounds",
+    "label": "Slow healing wounds",
+    "category": "General"
+  },
+  {
+    "id": "slow_heart_rate",
+    "label": "Slow heart rate",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": "slurred_speech",
+    "label": "Slurred speech",
+    "category": "Neurological"
+  },
+  {
+    "id": "small_raised_bumps",
+    "label": "Small raised bumps",
+    "category": "General"
+  },
+  {
+    "id": "sneezing",
+    "label": "Sneezing",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "sore_throat",
+    "label": "Sore throat",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "sour_taste_in_mouth",
+    "label": "Sour taste in mouth",
+    "category": "General"
+  },
+  {
+    "id": "sudden_confusion",
+    "label": "Sudden confusion",
+    "category": "Neurological"
+  },
+  {
+    "id": "sudden_explosive_headache",
+    "label": "Sudden explosive headache",
+    "category": "Neurological"
+  },
+  {
+    "id": "sudden_nighttime_joint_pain",
+    "label": "Sudden nighttime joint pain",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "sudden_severe_dizziness",
+    "label": "Sudden severe dizziness",
+    "category": "Neurological"
+  },
+  {
+    "id": "sweating",
+    "label": "Sweating",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "swollen_finger_joints",
+    "label": "Swollen finger joints",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "swollen_warm_joints",
+    "label": "Swollen warm joints",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "symmetric_joint_pain",
+    "label": "Symmetric joint pain",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "syncope_fainting",
+    "label": "Syncope fainting",
+    "category": "General"
+  },
+  {
+    "id": "thick_yellow_green_mucus",
+    "label": "Thick yellow green mucus",
+    "category": "General"
+  },
+  {
+    "id": "throat_irritation",
+    "label": "Throat irritation",
+    "category": "Respiratory & ENT"
+  },
+  {
+    "id": "throbbing_headache",
+    "label": "Throbbing headache",
+    "category": "Neurological"
+  },
+  {
+    "id": "tingling_hands_feet",
+    "label": "Tingling hands feet",
+    "category": "Neurological"
+  },
+  {
+    "id": "toothache_upper_jaw",
+    "label": "Toothache upper jaw",
+    "category": "General"
+  },
+  {
+    "id": "tophi_subcutaneous_deposits",
+    "label": "Tophi subcutaneous deposits",
+    "category": "General"
+  },
+  {
+    "id": "unexplained_fatigue",
+    "label": "Unexplained fatigue",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "unexplained_weight_gain",
+    "label": "Unexplained weight gain",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "unexplained_weight_loss",
+    "label": "Unexplained weight loss",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "unilateral_head_pain",
+    "label": "Unilateral head pain",
+    "category": "General"
+  },
+  {
+    "id": "upper_abdominal_pain",
+    "label": "Upper abdominal pain",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "upper_back_pain",
+    "label": "Upper back pain",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "upper_right_abdominal_pain",
+    "label": "Upper right abdominal pain",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "urgency_for_bowel_movement",
+    "label": "Urgency for bowel movement",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "urgency_to_urinate",
+    "label": "Urgency to urinate",
+    "category": "Urological & Renal"
+  },
+  {
+    "id": "vision_blur",
+    "label": "Vision blur",
+    "category": "Neurological"
+  },
+  {
+    "id": "vision_loss_one_eye",
+    "label": "Vision loss one eye",
+    "category": "Neurological"
+  },
+  {
+    "id": "visual_aura",
+    "label": "Visual aura",
+    "category": "Neurological"
+  },
+  {
+    "id": "vomiting",
+    "label": "Vomiting",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "warmth_over_joint",
+    "label": "Warmth over joint",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": "watery_diarrhea",
+    "label": "Watery diarrhea",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": "watery_eyes",
+    "label": "Watery eyes",
+    "category": "General"
+  },
+  {
+    "id": "weight_loss",
+    "label": "Weight loss",
+    "category": "Constitutional / Metabolic"
+  },
+  {
+    "id": "wheezing",
+    "label": "Wheezing",
+    "category": "Respiratory & ENT"
+  }
+]
